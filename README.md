@@ -27,7 +27,7 @@ WebIntel Analyzer is a Python-based tool designed to analyze and extract compreh
 
 Download or clone the script to your local machine:
 
-- git clone https://github.com/your-repo/WebIntelAnalyzer.git
+- git clone https://github.com/shashwatttttt/WebIntelAnalyzer.git
 
 - cd WebIntelAnalyzer
 
